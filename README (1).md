@@ -123,3 +123,14 @@ Librerias:
 * **Archivo**: ```health_lifestyle_dataset.csv```
 * **Dimensiones**: 100,000 filas y 41 columnas (incluyendo la variable target).
 
+## Las gráficas son interactivas para optimizar la visualización y el análisis de los datos.
+
+![GRAFICA_A ](https://github.com/LICGUILLERMOMAC/prac01/blob/a36a72f68e747f706f183295cab4a4cc3df35151/WhatsApp%20Image%202025-07-30%20at%2010.35.31%20PM.jpeg)
+
+![GRAFICA_B ](https://github.com/LICGUILLERMOMAC/prac01/blob/a36a72f68e747f706f183295cab4a4cc3df35151/WhatsApp%20Image%202025-07-30%20at%2010.35.32%20PM%20(1).jpeg)
+
+![GRAFICA_c ](https://github.com/LICGUILLERMOMAC/prac01/blob/a36a72f68e747f706f183295cab4a4cc3df35151/WhatsApp%20Image%202025-07-30%20at%2010.35.32%20PM.jpeg)
+
+
+
+
